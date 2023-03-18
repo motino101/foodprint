@@ -6,12 +6,13 @@ Keeping track of one's carbon footprint can be challenging, but it is a necessar
 
 ## Features
 :+1: Estimate the carbon footprint of a meal from a user-uploaded image
-:+1: Provide information about the carbon footprint in kilograms of CO2
-:+1: Educate users about the carbon footprint of various dishes and promote environmental education
-Demo Video
-Check out our demo video to see Foodprint in action!
 
-## Foodprint Demo Video
+:+1: Provide information about the carbon footprint in kilograms of CO2
+
+:+1: Educate users about the carbon footprint of various dishes and promote environmental education
+
+## Demo Video
+Check out our demo video to see Foodprint in action!
 
 ## Installation
 To install the app, first, ensure that all dependencies listed in requirements.txt are installed. Then run npm expo start in the terminal. If using the iOS Simulator, upload the images you want to classify into the local directory "./". If using expo start, download Expo Go and scan the QR code.
