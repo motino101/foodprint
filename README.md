@@ -5,9 +5,9 @@ Foodprint is a mobile app for iOS and Android that helps users understand the en
 Keeping track of one's carbon footprint can be challenging, but it is a necessary task as environmental awareness increases. Our team has developed an app that informs the user about the carbon footprint of any food item in a standard unit of 1 kilogram of CO2 by analyzing photos uploaded by the user. The app uses CLIP and ChatGPT technologies to identify and interpret the content of an image and then export the content using React in a user-friendly application interface.
 
 ## Features
-Estimate the carbon footprint of a meal from a user-uploaded image
-Provide information about the carbon footprint in kilograms of CO2
-Educate users about the carbon footprint of various dishes and promote environmental education
+:+1: Estimate the carbon footprint of a meal from a user-uploaded image
+:+1: Provide information about the carbon footprint in kilograms of CO2
+:+1: Educate users about the carbon footprint of various dishes and promote environmental education
 Demo Video
 Check out our demo video to see Foodprint in action!
 
