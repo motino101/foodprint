@@ -1,4 +1,4 @@
-# Foodprint: A Sustainability Awareness App for iOS/Android
+# 🦶Foodprint: A Sustainability Awareness App for iOS/Android
 Foodprint is a mobile app for iOS and Android that helps users understand the environmental impact of their food choices by estimating the carbon footprint of a meal from a user-uploaded image. The app uses React Native and integrates the CLIP (Contrastive Language-Image Pre-Training) model to analyze photos and estimate the carbon footprint in kilograms of CO2.
 
 ## Introduction
