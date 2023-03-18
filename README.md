@@ -15,12 +15,12 @@ Keeping track of one's carbon footprint can be challenging, but it is a necessar
 Check out our demo video to see Foodprint in action!
 
 ## Installation
-To install the app, first, ensure that all dependencies listed in requirements.txt are installed. Then run npm expo start in the terminal. If using the iOS Simulator, upload the images you want to classify into the local directory "./". If using expo start, download Expo Go and scan the QR code.
+To install the app, first, ensure that all dependencies listed in requirements.txt are installed. Then run npm expo start in the terminal. If using the iOS Simulator, upload the images you want to classify into the local directory "./" and run "python3 image_classification.py" first. If using expo, download Expo Go and scan the QR code.
 
-Please note that the app currently has some caveats. The estimates are based on serving size only.
+Please note that the app currently has some caveats. The estimates are based on one serving size only.
 
 ## Usage
-Using the app is incredibly easy. Simply upload a picture of your meal from your camera roll, and the app will provide you with an approximate estimate of the carbon footprint resulting from one serving of your meal. The estimate is usually accurate to within 0.5kg, and the app will also calculate the cost of offsetting the emissions.
+Using the app is easy. Simply upload a picture of your meal from your camera roll, and the app will provide you with an approximate estimate of the carbon footprint resulting from one serving of your meal. The estimate is usually accurate to within 0.5kg, and the app will also calculate the cost of offsetting the emissions.
 
 ## Contributors
 Cole Lee
